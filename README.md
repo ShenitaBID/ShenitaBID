@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Salesforce
 - 🌱 I’m currently learning ...Salesforce Administration - FLOWs
 - 💞️ I’m looking to collaborate on ...tips for learning FLOW
-- 📫 How to reach me ...shenita.bid@gmail.com
+- 📫 How to reach me ...shenita@businessindesign.llc
 
 <!---
 ShenitaBID/ShenitaBID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
